@@ -1,4 +1,4 @@
-package basics;
+package classassigments;
 
 public class Employees{
 
